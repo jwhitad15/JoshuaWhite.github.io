@@ -1,6 +1,6 @@
 <h1>Joshua White</h1>
 
-<!doctype html>
+
 <head>
   <title>All About Me</title>
   <link rel="stylesheet" href="/CSS/Profile.css">
@@ -9,7 +9,7 @@
 
 <body>
   <header><h1>Joshua</h1>
-    <h4 sty <article><h1 style=text-align:left>MY CURRENT LIFE</h1>
+   MY CURRENT LIFE
         <br />
     My life is great! I wake up, go for a walk, eat something for breakfast, and sit down at my computer to code! <br />
     Here are three things I learned from my coding journey so far:
