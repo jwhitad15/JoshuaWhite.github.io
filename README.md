@@ -3,7 +3,7 @@
 
 <head>
  All About Me
-  <link rel="stylesheet" href="/CSS/Profile.css">
+  <link rel="stylesheet" href="https://github.com/jwhitad15/JoshuaWhite.github.io/blob/main/homepage.css">
 </head>
 
 
