@@ -25,8 +25,9 @@
       <li>Innovative</li>
       <li>Rooted in Community</li>
       <li>Progressive</li>
-      <li>Learn more about my career goals <a style="color:black;" href="https://github.com/jwhitad15?tab=repositories">here</a>.</li>
       </ol>
+      <br />
+      Learn more about my career goals <a style="color:black;" href="https://github.com/jwhitad15?tab=repositories">here</a>.
       <hr >
 
   <footer class="footer">
