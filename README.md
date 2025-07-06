@@ -2,7 +2,7 @@
 
 
 <head>
-  <title>All About Me</title>
+ All About Me
   <link rel="stylesheet" href="/CSS/Profile.css">
 </head>
 
