@@ -20,6 +20,7 @@
       <br />
       My current career goal is to join a company that is:
       <br/>
+    <br />
      <ol>
       <li>Purpose-Driven</li>
       <li>Innovative</li>
