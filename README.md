@@ -21,7 +21,9 @@
     <br />
     <hr>
     <br />
-    <h1 style=text-align:left>MY PAST LIFE <br /></h1>
+<!--     <h1 style=text-align:left> -->
+      MY PAST LIFE <br />
+<!--     </h1> -->
     In my past, I was a basketball player. To ensure optimal performance, I made it my business to:
    <ol>
     <li>Arrive Early</li>
@@ -29,7 +31,10 @@
     <li>Stretch</li>
     <li>Practice My Skills</li>
     </ol>
-    </article>="line-height:0.02">an introduction to my life</h4><hr ></header>
+<!--     </article>="line-height:0.02"> -->
+    an introduction to my life
+  <!--   </h4> -->
+    <hr ></header>
 
   <div id="main">
 
