@@ -1,14 +1,5 @@
-<h1>Joshua White</h1>
-
-
-<head>
- All About Me
-  <link rel="stylesheet" href="https://github.com/jwhitad15/JoshuaWhite.github.io/blob/main/homepage.css">
-</head>
-
-
 <body>
-  <header><h1>Joshua</h1>
+  <header><h1>Joshua White</h1>
    MY SKILLS
         <br />
         My life is great! I wake up, go for a walk, eat something for breakfast, and sit down at my computer to code! 
