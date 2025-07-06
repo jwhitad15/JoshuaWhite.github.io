@@ -35,7 +35,7 @@
     <h3>My Work</h3>
       To see my work, click this <a style="color:black;" href="https://github.com/jwhitad15?tab=repositories">link</a>.
       <hr>
-      <p> <small>&copy; 2025 Joshua Did This</small> </p>
+      <p> <small>&copy; 2025 JWMP</small> </p>
   </footer>
 
 </body>
