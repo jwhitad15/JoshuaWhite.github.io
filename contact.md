@@ -2,7 +2,7 @@
   <header><h1>Contact Me</h1>
         <br />
         My primary form of contact is email. Should you choose to send a message, please include a descriptive subject. 
-        <br />
+        <br /> <br />
     <ul>
         <li><b>Email:</b> jwhite83193@gmail.com</li>
     </ul>
