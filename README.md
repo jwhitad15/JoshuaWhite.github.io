@@ -17,6 +17,7 @@
         <li><b>Be Patient:</b> Great things take time!</li>
         <li><b>Practice:</b> Practice makes permanent!</li>
         <li><b>Take Breaks:</b> Don't forget to enjoy some sunshine!</li> 
+      <li><a style="color:black;" href="https://github.com/jwhitad15?tab=repositories">link</a></li>
     </ul>
     <br />
     <hr>
@@ -30,6 +31,7 @@
     <li>Warmup</li>
     <li>Stretch</li>
     <li>Practice My Skills</li>
+    <li><a style="color:black;" href="https://github.com/jwhitad15?tab=repositories">link</a></li>
     </ol>
 <!--     </article>="line-height:0.02"> -->
     an introduction to my life
