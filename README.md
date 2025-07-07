@@ -13,7 +13,7 @@
           <li><b>Adjacent Skills:</b> Microsoft Office, Adobe Creative Suite</li>
       </ul>
       <br />
-      Learn more about my skills <a style="color:black;" href="/contact.md">here</a>.
+      Learn more about my skills <a style="color:black;" href="https://jwhitad15.github.io/JoshuaWhite.github.io/contact.md">here</a>.
       <hr>
       <br />
      MY GOALS <br />
