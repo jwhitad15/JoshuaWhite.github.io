@@ -1,5 +1,5 @@
 <body>
-    <h1>Joshua White</h1>
+    <h1 class="home-header" >Joshua White</h1>
     <br />
      MY SKILLS
           <br /> <br />
