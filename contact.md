@@ -1,4 +1,4 @@
-<body>
+<!-- <body>
   <header><h1>Contact Me</h1>
         <br />
         My primary form of contact is email. Should you choose to send a message, please include a descriptive subject. 
@@ -14,4 +14,4 @@
     <p> <small>&copy; 2025 JWMP</small> </p>
   </footer>
 
-</body>
+</body> -->
