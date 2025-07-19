@@ -23,7 +23,7 @@ email: jwhite83193@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  This is my portfolio site on GitHub. Here you may view information about my latest projects & interests.
 domain: jwhitad15.github.io
-baseurl: "/JoshuaWhite.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jwhitad15.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jwhitad15
 
