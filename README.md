@@ -1,4 +1,4 @@
-<!-- <body>
+<body>
     <h1 class="home-header" >Joshua White</h1>
     <br />
      MY SKILLS
@@ -38,4 +38,4 @@
       <p> <small>&copy; 2025 JWMP</small> </p>
   </footer>
 
-</body> -->
+</body>
