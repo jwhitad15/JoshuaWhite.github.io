@@ -26,11 +26,15 @@ domain: jwhitad15.github.io
 baseurl:  /JoshuaWhite.github.io # the subpath of your site, e.g. /blog
 url: https://jwhitad15.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jwhitad15
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
 
 # Build settings
-remote-theme: pages-themes/modernist@v0.2.0
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-remote-theme
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
