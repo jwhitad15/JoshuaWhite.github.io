@@ -28,7 +28,7 @@ url: https://jwhitad15.github.io # the base hostname & protocol for your site, e
 github_username:  jwhitad15
 
 # Build settings
-theme: jekyll-theme-midnight
+remote-theme: jekyll-theme-modernist
 plugins:
   - jekyll-remote-theme
 
